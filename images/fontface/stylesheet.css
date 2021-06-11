@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ubuntu Mono derivative Powerline';
+    src: url('UbuntuMonoDerivativePowerline-Bold.eot');
+    src: url('UbuntuMonoDerivativePowerline-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UbuntuMonoDerivativePowerline-Bold.woff2') format('woff2'),
+        url('UbuntuMonoDerivativePowerline-Bold.woff') format('woff'),
+        url('UbuntuMonoDerivativePowerline-Bold.svg#UbuntuMonoDerivativePowerline-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
